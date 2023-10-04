@@ -38,10 +38,20 @@ int result = x1 + x2;
 
 
         System.out.println(result);
-        System.out.println(test1);
-        //не понимаю как вывести в консоль два разных значения в одну стоку без использывания операторов сложнеия
-        System.out.println(test2);
 
+        //не понимаю как вывести в консоль два разных значения в одну стоку без использывания операторов сложнеия
+
+
+var firstNumber = 15;
+var secondNumber = 51;
+        System.out.println(firstNumber);
+        System.out.println(secondNumber);
+
+        firstNumber = 15 + 45 - 9;
+        System.out.println(firstNumber);
+secondNumber = (51 - 40) / 2;
+secondNumber = secondNumber * 3;
+        System.out.println(secondNumber);
 
     }
 }
