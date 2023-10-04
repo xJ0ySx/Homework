@@ -16,5 +16,20 @@ public class homework02 {
 
         System.out.println(emailLeft);
 
+        double distance = 21.6;
+var distance01 = distance + " Km";
+int time = 2;
+var time01 = time + " Hours";
+var speed = distance / time;
+var speed01 = speed / 3.6;
+var speedOnMs = speed01 + " m/s";
+
+
+
+        System.out.println(distance01);
+        System.out.println(time01);
+        System.out.println(speed);
+        System.out.println(speedOnMs);
+
     }
 }
