@@ -28,8 +28,20 @@ var speedOnMs = speed01 + " m/s";
 
         System.out.println(distance01);
         System.out.println(time01);
-        System.out.println(speed);
         System.out.println(speedOnMs);
+
+var x1 = 8;
+var x2 = 2;
+int number = ((x1)+(x2));
+int result = x1 + x2;
+
+
+
+        System.out.println(result);
+        System.out.println(test1);
+        //не понимаю как вывести в консоль два разных значения в одну стоку без использывания операторов сложнеия
+        System.out.println(test2);
+
 
     }
 }
